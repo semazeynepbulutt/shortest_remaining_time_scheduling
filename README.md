@@ -1,0 +1,2 @@
+# shortest_remaining_time_scheduling
+While coding the shortest remaining time algorithm with python, I sorted the sorting process according to the remaining value and arrival time, the operation with the smallest of both takes priority by the algorithm. Since adding the service time variable would complicate the structure, I did not use that variable in this study, so the waiting time calculation of the processes was not done. If you want to use and improve this work, you can start from this first :)
